@@ -9,7 +9,7 @@ window.addEventListener ("scroll", function(){
 
 //==========Typing Animation========
 var typed = new Typed(".typing",{
-    strings:["Web Developer.", "Competitive Programmer.", "Designer.", "Musician.", "IITian."],
+    strings:["a Web Developer.", "a Competitive Programmer.", "a Designer.", "a Musician.", "an IITian."],
     typeSpeed:100,
     BackSpeed:60,
     loop:true
